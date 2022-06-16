@@ -16,6 +16,8 @@ My plan is to use this website to introduce myself to my colleagues and to show 
 
 I would prefer you only use this website to draw *positive* opinions of me. Of course I welcome solution oriented critique, so that would be a great way to use this website. 
 
+I stole a bunch of code from Chih-Hsiang Chen because his website had a kitten on it, indicating his superior taste and style. When I tried to paste it into my code, everything broke, so I learned how to fix and edit his code to get it working. Then I customized the content and made a fontawesome account and linked that up. 
+
 ## Contributing
 
 Friend, if you are reading this file, you are contributing.
@@ -24,4 +26,5 @@ Friend, if you are reading this file, you are contributing.
 
 Let's say CC0; that's always legally confusing. Hey! That means you can use that "legally confusing" line any time you want, and I have to grit my teeth and acknowledge your right to do so. 
 
-The CSS and HTML for this page was based on/ lifted from Chih-Hsiang Chen, a prodigious Taiwanese front-end developer. Find his stuff here: https://codepen.io/chih-hsi-chen
+The CSS and HTML for this page was based on/ lifted from Chih-Hsiang Chen, a prodigious Taiwanese front-end developer. Find his stuff here: https://codepen.io/chih-hsi-chen 
+
